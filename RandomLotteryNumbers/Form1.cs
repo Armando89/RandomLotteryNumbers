@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace RandomLotteryNumbers
 {
-    public partial class Form1 : Form
+    public partial class LotteryForm : Form
     {
-        public Form1()
+        public LotteryForm()
         {
             InitializeComponent();
+        }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void NumbersButton_Click(object sender, EventArgs e)
+        {
+            Random numbers = new Random();
         }
     }
 }
