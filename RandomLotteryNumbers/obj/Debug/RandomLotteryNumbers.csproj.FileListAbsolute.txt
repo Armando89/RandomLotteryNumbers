@@ -1,0 +1,9 @@
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\bin\Debug\RandomLotteryNumbers.exe.config
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\bin\Debug\RandomLotteryNumbers.exe
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\bin\Debug\RandomLotteryNumbers.pdb
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\obj\Debug\RandomLotteryNumbers.csprojAssemblyReference.cache
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\obj\Debug\RandomLotteryNumbers.LotteryForm.resources
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\obj\Debug\RandomLotteryNumbers.Properties.Resources.resources
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\obj\Debug\RandomLotteryNumbers.csproj.GenerateResource.cache
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\obj\Debug\RandomLotteryNumbers.exe
+C:\Users\arman\VS\Practice\Ch7\RandomLotteryNumbers\RandomLotteryNumbers\obj\Debug\RandomLotteryNumbers.pdb

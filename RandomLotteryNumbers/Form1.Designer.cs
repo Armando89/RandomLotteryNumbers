@@ -28,54 +28,54 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Label1 = new System.Windows.Forms.Label();
-            this.Label2 = new System.Windows.Forms.Label();
-            this.Label3 = new System.Windows.Forms.Label();
-            this.Label4 = new System.Windows.Forms.Label();
-            this.Label5 = new System.Windows.Forms.Label();
+            this.NumLabel1 = new System.Windows.Forms.Label();
+            this.NumLabel2 = new System.Windows.Forms.Label();
+            this.NumLabel3 = new System.Windows.Forms.Label();
+            this.NumLabel4 = new System.Windows.Forms.Label();
+            this.NumLabel5 = new System.Windows.Forms.Label();
             this.NumbersButton = new System.Windows.Forms.Button();
             this.ExitButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // Label1
+            // NumLabel1
             // 
-            this.Label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Label1.Location = new System.Drawing.Point(50, 104);
-            this.Label1.Name = "Label1";
-            this.Label1.Size = new System.Drawing.Size(100, 23);
-            this.Label1.TabIndex = 0;
+            this.NumLabel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.NumLabel1.Location = new System.Drawing.Point(50, 104);
+            this.NumLabel1.Name = "NumLabel1";
+            this.NumLabel1.Size = new System.Drawing.Size(100, 23);
+            this.NumLabel1.TabIndex = 0;
             // 
-            // Label2
+            // NumLabel2
             // 
-            this.Label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Label2.Location = new System.Drawing.Point(160, 104);
-            this.Label2.Name = "Label2";
-            this.Label2.Size = new System.Drawing.Size(100, 23);
-            this.Label2.TabIndex = 1;
+            this.NumLabel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.NumLabel2.Location = new System.Drawing.Point(160, 104);
+            this.NumLabel2.Name = "NumLabel2";
+            this.NumLabel2.Size = new System.Drawing.Size(100, 23);
+            this.NumLabel2.TabIndex = 1;
             // 
-            // Label3
+            // NumLabel3
             // 
-            this.Label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Label3.Location = new System.Drawing.Point(266, 104);
-            this.Label3.Name = "Label3";
-            this.Label3.Size = new System.Drawing.Size(100, 23);
-            this.Label3.TabIndex = 2;
+            this.NumLabel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.NumLabel3.Location = new System.Drawing.Point(266, 104);
+            this.NumLabel3.Name = "NumLabel3";
+            this.NumLabel3.Size = new System.Drawing.Size(100, 23);
+            this.NumLabel3.TabIndex = 2;
             // 
-            // Label4
+            // NumLabel4
             // 
-            this.Label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Label4.Location = new System.Drawing.Point(372, 104);
-            this.Label4.Name = "Label4";
-            this.Label4.Size = new System.Drawing.Size(100, 23);
-            this.Label4.TabIndex = 3;
+            this.NumLabel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.NumLabel4.Location = new System.Drawing.Point(372, 104);
+            this.NumLabel4.Name = "NumLabel4";
+            this.NumLabel4.Size = new System.Drawing.Size(100, 23);
+            this.NumLabel4.TabIndex = 3;
             // 
-            // Label5
+            // NumLabel5
             // 
-            this.Label5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Label5.Location = new System.Drawing.Point(478, 104);
-            this.Label5.Name = "Label5";
-            this.Label5.Size = new System.Drawing.Size(100, 23);
-            this.Label5.TabIndex = 4;
+            this.NumLabel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.NumLabel5.Location = new System.Drawing.Point(478, 104);
+            this.NumLabel5.Name = "NumLabel5";
+            this.NumLabel5.Size = new System.Drawing.Size(100, 23);
+            this.NumLabel5.TabIndex = 4;
             // 
             // NumbersButton
             // 
@@ -104,11 +104,11 @@
             this.ClientSize = new System.Drawing.Size(630, 333);
             this.Controls.Add(this.ExitButton);
             this.Controls.Add(this.NumbersButton);
-            this.Controls.Add(this.Label5);
-            this.Controls.Add(this.Label4);
-            this.Controls.Add(this.Label3);
-            this.Controls.Add(this.Label2);
-            this.Controls.Add(this.Label1);
+            this.Controls.Add(this.NumLabel5);
+            this.Controls.Add(this.NumLabel4);
+            this.Controls.Add(this.NumLabel3);
+            this.Controls.Add(this.NumLabel2);
+            this.Controls.Add(this.NumLabel1);
             this.Name = "LotteryForm";
             this.Text = "Random Lottery Numbers";
             this.ResumeLayout(false);
@@ -117,11 +117,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Label Label1;
-        private System.Windows.Forms.Label Label2;
-        private System.Windows.Forms.Label Label3;
-        private System.Windows.Forms.Label Label4;
-        private System.Windows.Forms.Label Label5;
+        private System.Windows.Forms.Label NumLabel1;
+        private System.Windows.Forms.Label NumLabel2;
+        private System.Windows.Forms.Label NumLabel3;
+        private System.Windows.Forms.Label NumLabel4;
+        private System.Windows.Forms.Label NumLabel5;
         private System.Windows.Forms.Button NumbersButton;
         private System.Windows.Forms.Button ExitButton;
     }
